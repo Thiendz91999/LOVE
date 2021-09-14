@@ -48,7 +48,7 @@ int main()
         Sleep(4000);
     }
     if (i==90) {
-        cout << "\n\n\t\t\tTO    YEU    CAU       ";
+        cout << "\n\n\t\t\tTOi    YEU    CAU       ";
         cout << "\n\n\n\t\tHAY LAM NGUOI YEU TO NHE ! TO THICH CAU MAT ROI !  \n\t\tS2";
         Sleep(5000);
     }
